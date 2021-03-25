@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.SearchBar {
+  display: flex;
+  justify-content: center;
+  margin: 10px 15%;
+}
+.Container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  width: 70%;
+  margin: 10px 15%;
+}
+.Box {
+  border: 1px black solid;
+  padding: 3px;
+  width: 150px;
+}
